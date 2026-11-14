@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: comment
+  datasource:
+    url: jdbc:mysql://localhost:3306/study
+    username: root
+    password: abc123123123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
